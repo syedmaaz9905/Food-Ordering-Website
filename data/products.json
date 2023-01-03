@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Marinated Chicken",
+      "price": "230",
+      "url": "./images/product-4.jpg",
+      "category": "Chefs-Picks"
+    },
+    {
+      "id": 2,
+      "title": "Lean and green taco salad recipe",
+      "price": "100",
+      "url": "./images/product-2.jpg",
+      "category": "Chefs-Picks"
+    },
+    {
+      "id": 3,
+      "title": "Butternet Squash Penne",
+      "price": "130",
+      "url": "./images/product-1.png",
+      "category": "Editors-Choice"
+    },
+    {
+      "id": 4,
+      "title": "Chicken Fillet",
+      "price": "200",
+      "url": "./images/product-3.jpg",
+      "category": "Editors-Choice"
+    },
+    {
+      "id": 5,
+      "title": "Strawberry Tart Cake",
+      "price": "120",
+      "url": "./images/product-10.jpg",
+      "category": "Chefs-Picks"
+    },
+    {
+      "id": 6,
+      "title": "Butternet Squash Penne",
+      "price": "130",
+      "url": "./images/product-1.png",
+      "category": "All-Recipes"
+    },
+    {
+      "id": 7,
+      "title": "Chef Tarek",
+      "price": "1M, Net-Worth",
+      "url": "./images/product-11.jpeg",
+      "category": "Chefs"
+    },
+    {
+      "id": 8,
+      "title": "Chef Omar",
+      "price": "1.8M, Net-Worth",
+      "url": "./images/product-12.jpg",
+      "category": "Chefs"
+    },
+    {
+      "id": 9,
+      "title": "Chef Umami",
+      "price": "1.5M, Net-Worth",
+      "url": "./images/product-13.jpg",
+      "category": "Chefs"
+    },
+    {
+      "id": 10,
+      "title": "Lean and green taco salad recipe",
+      "price": "100",
+      "url": "./images/product-2.jpg",
+      "category": "All-Recipes"
+    },
+    {
+      "id": 11,
+      "title": "Chicken Fillet",
+      "price": "200",
+      "url": "./images/product-3.jpg",
+      "category": "All-Recipes"
+    },
+    {
+      "id": 12,
+      "title": "Marinated Chicken",
+      "price": "230",
+      "url": "./images/product-4.jpg",
+      "category": "All-Recipes"
+    },
+    {
+      "id": 13,
+      "title": "Popcorn Chiken Nuggets",
+      "price": "150",
+      "url": "./images/product-5.jpg",
+      "category": "All-Recipes"
+    },
+    {
+      "id": 14,
+      "title": "Dragon Chicken",
+      "price": "200",
+      "url": "./images/product-6.jpg",
+      "category": "All-Recipes"
+    },
+    {
+      "id": 15,
+      "title": "Seasoned Baked Eggs",
+      "price": "80",
+      "url": "./images/product-7.jpg",
+      "category": "All-Recipes"
+    },
+    {
+      "id": 16,
+      "title": "Prawn Pizza",
+      "price": "250",
+      "url": "./images/product-8.jpg",
+      "category": "All-Recipes"
+    },
+    {
+      "id": 17,
+      "title": "Mediterranean Pasta",
+      "price": "280",
+      "url": "./images/product-9.jpg",
+      "category": "All-Recipes"
+    },
+    {
+      "id": 18,
+      "title": "Strawberry Tart Cake",
+      "price": "120",
+      "url": "./images/product-10.jpg",
+      "category": "All-Recipes"
+    },
+    {
+      "id": 19,
+      "title": "Dragon Chicken",
+      "price": "200",
+      "url": "./images/product-6.jpg",
+      "category": "Editors-Choice"
+    },
+    {
+      "id": 20,
+      "title": "Chef Bill Smith",
+      "price": "2M, Net-Worth",
+      "url": "./images/product-14.jpg",
+      "category": "Chefs"
+    }
+  ]
+}
